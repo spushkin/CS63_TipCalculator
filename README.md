@@ -1,2 +1,3 @@
 # CS63_TipCalculator
- Swift App created for CS63 Fothill College class.
+Simple tip calculator Swift App created for CS63 class.
+![alt text](https://github.com/spushkin/CS63_TipCalculator/blob/main/img_TipCalculator.png)
